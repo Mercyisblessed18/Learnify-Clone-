@@ -1,0 +1,138 @@
+#header{position: fixed;top:0;left:0;background-color: white;height:60px;width:360px;margin-top:2px;}
+.logo{width:140px;margin-right: 80px;margin-top: 18px;}
+.login{position: fixed;top:0;left:215px;margin-top:20px;margin-left: -15px;height:30px;font-weight: bold;border-color: black}
+
+button{width:66px;background-color:white;color:black;heightt:35px;border-radius: 50px;vertical-align:top;border-color:none;margin-top: 10px;}
+
+main{background-image: url("backgroundone.jpg");height:700px;margin-bottom:19px;}
+
+.firsth{width:230px;}
+.first{width:180px;line-height: 25px;text-spacing:25px;color: slategray;font-size: 16px;font-family: arial;margin-top:30px;}
+.join{width:150px;background-color: purple;color: white;height:43px;font-weight: bold;border-style: none;margin-top: 23px;margin-left: 10px;margin-bottom: 30px;}
+.app{width:300px;margin-left: 40px;}
+
+.below{width:265px;color: grey;line-height: 23px;}
+.whys{background-color: whitesmoke;height:1700px;}
+.why{width:230px}
+
+.para{background-color: white;width:320px;border-radius: 12px;margin-left:13px;height:320px;}
+
+.earn{font-weight: bold;font-family: verdana;width: 150px;margin-left:150px;font-size:24px;line-height: 27px;}
+.non{color: grey;width:139px;line-height:20px;margin-top:28px;margin-left:150px;}
+.ran{width:160px;}
+.rank{color: grey;width:166px;line-height: 22px;margin-top:-13px;}
+.ranks{margin-left: 150px;}
+.glo{font-weight: bold;font-size: 25px; width:40px;}
+.globe{color: gray;width:155px; line-height:21px;margin-top:-15px;}
+.global{margin-left:150px;margin-top:60px;}
+
+.first-background{background-color:#B0C4DE;width:320px;height:500px;border-radius: 15px;margin-top: 160px;margin-left:12px}
+.second-background{background-color: white;width:260px;height:420px;border-radius: 15px;margin-left:30px;margin-bottom:90px;}
+.esther{width:100px;border-radius:50%;margin-left: 80px;}
+.ayo{font-weight:bold;text-align:center;margin-top: 8px;}
+.ayois{color:grey;text-align:center;margin-top: -12px;}
+.amount{background-image: linear-gradient(to top right, #EDC350, #A21BD0);width:225px;height:180px;border-radius:15px;margin-left: 18px;;}
+.over{font-weight:bold;color:white;font-size: 22px;margin-bottom:35px;margin-left: 12px;margin-top: 0px;}
+.balance{color:white;margin-top:22px;margin-left:12px;}
+.number{color:white;margin-top:-10px;margin-left:12px;}
+.depo{width:70px;height:30px;border-style:none;margin-left:12px;}
+.with{border-style:none;width:80px;;height:30px;}
+.depo,.with{margin-top:-2px; background-color:#A335A7;color:white;}
+
+.trade{margin-top: 65px;}
+.trading{width:300px}
+.simple{width:300px;margin-top:50px;margin-bottom: 20px;}
+.one{color:gray;text-align: center;display: block;margin-bottom: 120px;margin-left: 10px;font-weight: bold;
+}
+.get{margin-top: -130px;}
+.purchase{color:gray;text-transform: capitalize;display:inline-block;width:190px;margin-left:145px;margin-top:-29px;}
+.step{color:gray;font-weight:bold;}
+.two{color:gray;font-weight:bold;}
+.create{color:gray;display:inline-block;width:190px;margin-left:145px;margin-top:-29px;}
+.three{color:gray;font-weight:bold;}
+.verify{color:gray;display:inline-block;width:190px;margin-left:145px;margin-top:-29px;}
+.whitesmoke{background-color:whitesmoke;height:800px;margin-top:300px;}
+.what{width:280px;margin-left: 50px;margin-bottom: -20px;}
+.user{color:gray;width:250px;margin-left:50px;}
+.have{margin-left:70px;margin-bottom:-2px;}
+.share{color:gray;margin-left:47px;margin-top:-14px}
+.excited{background-color:white;border-radius: 20px;height:530px;margin-right:10px;margin-left: 10px;}
+.to-be{margin-left:50px;width:180px;margin-bottom:x;}
+.feel{margin-left:50px;width:185px;color:gray;}
+.kum{width:50px;border-radius:50%;}
+.chinaza{font-weight:bold;}
+.chi{margin-top:-30px;}
+
+.left{font-weight: bolder;color:gray;height:50px;display: inline-block;margin-left:40px;}
+.right{font-weight: bolder;color:gray;display: inline-block;margin-left:220px;}
+.arrow{text-align:center;color:gray;}
+justwow{margin-bottom: px;background-color:white;}
+.circle{background-image: url("learnify-1.jpg");height:220px;margin-top:-45px;}
+
+.kumm{width:38px;border-radius: 50%;margin-bottom:-245px;margin-left:200px;}
+.posh{width:42px;border-radius: 50%;margin-bottom:-290px;margin-right:210px;margin-left:100px;}
+.try{width:50px;border-radius: 50%;margin-bottom:-250px;margin-left:240px;}
+
+
+.white-background{background-color: white;height:600px;}
+ .wall{margin-top: 10px;}
+ .another-join{width:246px;}
+ .is-an{color:gray;font-size:18px;width:290px;margin-top:- 22px;}
+ .now{width:156px;background-color: purple;color: white;height:43px;font-weight: bold;border-style: none;margin-top: 23px;margin-left: 10px;margin-bottom: 30px;}
+ .purple{background-color:#3B1561;height:600px;margin-top:80px;}
+ .log{width:100px;margin-top:50px;}
+ 
+ .tables{color:white;}
+ .first-line{font-weight:bold;}
+ .about{margin-left:15px;display:inline-block;}
+ .resources{margin-left:160px;display:inline-block;}
+ 
+ 
+ 
+ 
+ 
+ .row-one{color: white;}
+ 
+ .term{display:inline-block;width:80px;margin-left:7px;}
+ .post{display:inline-block;margin-left:145px;margin-top:-6px;}
+ 
+ .pri{display:inline-block;margin-left:7px;margin-top:-4px;}
+.top{display:inline-block;margin-left:173px;margin-top:-4px;}
+ 
+ .con{display:inline-block;margin-left:7px;margin-top:-4px;}
+ .get{display:inline-block;margin-left:162px;margin-top:-4px;}
+ 
+ .check{display:inline-block;margin-left:238px;width:40px;margin-top:-4px; }
+ .app{color:white;}
+ .play{width:150px;color: white;height:45px;font-weight: bold;border-style: none;background-color:purple;margin-top:-6px;margin-left:8px;}
+ 
+ 
+ .container {
+  display: inline-block;
+  cursor: pointer;
+  
+  margin-left:85px;
+}
+
+.bar1, .bar2, .bar3 {
+  width: 29px;
+  height: 3px;
+  background-color: #333;
+  margin: 6px 0;
+  transition: 0.4s;}
+ 
+ .change .bar1 {
+  transform: translate(0, 11px) rotate(-45deg);}
+
+.change .bar2 {opacity: 0;}
+
+.change .bar3 {
+  transform: translate(0, -11px) rotate(45deg);}
+ 
+ .instagram{width:30px;border-radius:50%;display:inline-block;margin-top:6px;}
+ .tiktok{width:30px;border-radius:50%;display:inline-block;margin-left: 6px;}
+ .telegram{width:30px;border-radius:50%;display:inline-block;margin-left: 6px;}
+ .logos{margin-top:20px;margin-left:8px;}
+ hr{width:330px;margin-top: 30px;}
+ 
+ .copyright{margin-left:10px;width:px;margin-top:5px;}
